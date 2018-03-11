@@ -17,6 +17,6 @@
 - Javascript
 
 <br/>
-<img width="1616" alt="1" src="https://user-images.githubusercontent.com/28972721/36712370-4f32864c-1b3d-11e8-98c8-ac27aae8bac5.png">
+<img width="600" alt="1" src="https://user-images.githubusercontent.com/28972721/36712370-4f32864c-1b3d-11e8-98c8-ac27aae8bac5.png">
 
 
